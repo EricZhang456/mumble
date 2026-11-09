@@ -7,7 +7,7 @@
 	<key>CFBundleGetInfoString</key>
 	<string>@PROJECT_DESCRIPTION@</string>
 	<key>CFBundleIdentifier</key>
-	<string>mumble-server</string>
+	<string>info.mumble.mumble-server</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
